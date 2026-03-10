@@ -23,8 +23,6 @@ My research combines **statistical genetics, environmental modeling and machine 
 ### Languages
 - R
 - Python
-- Bas
-- 
 ---
 
 ## Contact

@@ -27,8 +27,8 @@ My research combines **statistical genetics, environmental modeling and machine 
 
 ## Contact
 
-Email: *[Thiago.brommonschenkel@gmail.com]*  
-LinkedIn: *[www.linkedin.com/in/thiago-brommonschenkel-2b4798163]*
+Email: *Thiago.brommonschenkel@gmail.com*  
+LinkedIn: *www.linkedin.com/in/thiago-brommonschenkel-2b4798163*
 
 <!--
 **ThiagoBrommonschenkel/ThiagoBrommonschenkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
